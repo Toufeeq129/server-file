@@ -1,4 +1,0 @@
-datasource-ip-address:localhost
-user:ketabcha
-dbName:ketabcha
-type:sarafi
