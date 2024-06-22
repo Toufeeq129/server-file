@@ -1,0 +1,1 @@
+https://unix.stackexchange.com/questions/203183/git-fatal-out-of-memory-malloc-failed-on-branch-push
